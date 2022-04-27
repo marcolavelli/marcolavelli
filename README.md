@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 II’m currently working on Valsecchi Impianti Srl
+- 🔭 I’m currently working on Valsecchi Impianti Srl
 - 🌱 I’m currently learning Web Development
 - 🤔 I’m looking for help with improving my skills
 - 💬 Ask me for an exciting new collaboration 
