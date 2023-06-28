@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Valsecchi Impianti Srl
-- 🌱 I’m currently learning Go programming language
+- 🌱 I’m currently learning C# programming language
 - 🤔 I’m looking for help with improving my skills
 - 💬 Ask me for an exciting new collaboration 
 - 📫 How to reach me: marcolaveclub@gmail.com
