@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there
 
 - 🔭 I’m currently working on Valsecchi Impianti Srl
 - 🤔 I’m looking for help with improving my skills
